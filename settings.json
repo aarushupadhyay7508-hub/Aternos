@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "BxA_minecraft.aternos.me",
-    "port":38688,
+    "ip": "aarvix.play.hosting",
     "version": "1.20.1",
     "try-creative": false
   },
