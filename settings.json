@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "aarvix.play.hosting",
+    "ip": "aarvix.mcsh.io",
     "version": "1.20.1",
     "try-creative": false
   },
